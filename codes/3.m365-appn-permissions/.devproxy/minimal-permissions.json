@@ -1,0 +1,23 @@
+{
+    "$schema": "https://raw.githubusercontent.com/microsoft/dev-proxy/main/schemas/v0.22.0/rc.schema.json",
+    "plugins": [
+        {
+            "name": "GraphMinimalPermissionsPlugin",
+            "enabled": true,
+            "pluginPath": "~appFolder/plugins/dev-proxy-plugins.dll",
+            "configSection": "graphMinimalPermissionsPlugin"
+        },
+        {
+            "name": "GraphMockResponsePlugin",
+            "enabled": false,
+            "pluginPath": "~appFolder/plugins/dev-proxy-plugins.dll",
+            "configSection": "mocksPlugin"
+        }
+    ],
+    "graphMinimalPermissionsPlugin": {
+        "type": "delegated"
+    },
+    "mocksPlugin": {
+        "mocksFile": "responses/graph-mocks.json"
+    }
+}
