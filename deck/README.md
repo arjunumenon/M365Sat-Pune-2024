@@ -1,6 +1,6 @@
-# SESSION NAME
+# M365 Saturday Pune 2024
 
-This repository has the deck which is used by Arjun Menon in SESSION for the session **TOPIC NAME**
+This repository has the artifacts which is used by Arjun Menon in M365 Saturday, Pune 2024 for the session **Testing the Untestable using M365 Developer Proxy - Ensuring that your M365 Apps are resilient**
 
 ## Pre-requisites
 
