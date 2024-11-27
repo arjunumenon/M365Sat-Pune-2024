@@ -25,3 +25,11 @@ The demo codes used in the session are available in the [`codes`](./codes/) fold
 ## Deck
 
 The deck used in the session is available in the [`deck`](./deck/) folder.
+
+## References Used
+
+| Link | Comments |
+|------|----------|
+| [M365 Dev Proxy Landing Page](https://aka.ms/devproxy) | Landing Page for M365 Dev Proxy |
+| [GitHub Repository for M365 Dev Proxy](https://github.com/microsoft/dev-proxy) | GH Repository for M365 Dev Proxy |
+| [Samples for References](https://github.com/pnp/proxy-samples) | This has the samples for M365 Dev Proxy which could be used as references |
